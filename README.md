@@ -1,1 +1,5 @@
 # Velas-Blockchain
+
+### Run
+
+`./velasblockchain`
