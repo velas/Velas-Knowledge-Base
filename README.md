@@ -1,3 +1,7 @@
 # Velas-Blockchain
 
-[Latest releases](https://github.com/velas/Velas-Blockchain/releases)
+
+### Install node
+
+See it wallet.velas.com / staking page 
+
